@@ -1,3 +1,6 @@
 [submodule "gol"]
 	path = gol
 	url = https://github.com/GitPracticeRepo/game-of-life.git
+[submodule "spc"]
+	path = spc
+	url = https://github.com/GitPracticeRepo/spring-petclinic.git
